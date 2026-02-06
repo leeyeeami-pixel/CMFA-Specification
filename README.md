@@ -66,11 +66,11 @@ Defines how Bricks announce themselves and integrate into the CMFA resource grap
 **Description:**  
 This specification defines mandatory compliance testing requirements for CMFA implementations.
 
-**Key Points:**  
-- Standardized Brick descriptor format  
-- Automatic discovery protocol  
-- Dynamic registration to the Fabric resource graph  
-- Compatibility rules for heterogeneous modules  
+**Key Points:** 
+- Required conformance behaviors
+- Minimal certification test cases
+- Interoperability validation rules
+- Safety reflex enforcement checks
 
 ---
 
