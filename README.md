@@ -64,7 +64,7 @@ Defines how Bricks announce themselves and integrate into the CMFA resource grap
 ## [CMFA-6000 — Compliance & Interoperability Test Suite](specs/CMFA-6000_Compliance_Testing.md)
 
 **Description:**  
-Defines how Bricks announce themselves and integrate into the CMFA resource graph.
+This specification defines mandatory compliance testing requirements for CMFA implementations.
 
 **Key Points:**  
 - Standardized Brick descriptor format  
