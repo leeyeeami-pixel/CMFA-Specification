@@ -48,7 +48,7 @@ Defines standard classes for Bricks to ensure interoperability across CMFA syste
 
 ---
 
-## [CMFA-5001 — Brick Descriptor & Discovery](specs/CMFA-5001_Brick_Descriptor_Discovery.md)
+## [CMFA-5001 — Brick Descriptor & Discovery](specs/CMFA-5001_Discovery_and_Descriptors.md)
 
 **Description:**  
 Defines how Bricks announce themselves and integrate into the CMFA resource graph.
