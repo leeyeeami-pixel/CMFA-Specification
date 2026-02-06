@@ -22,7 +22,7 @@ Defines the base frame and packet header for communication between Bricks over t
 
 ---
 
-## [CMFA-3002 — Switching & Routing Rules](specs/CMFA-3002_Switching_Routing.md)
+## [CMFA-3002 — Switching & Routing Rules](specs/CMFA-3002_Switching_and_Routing.md)
 
 **Description:**  
 Defines rules for forwarding packets, routing, and handling priorities within the CMFA Fabric.
