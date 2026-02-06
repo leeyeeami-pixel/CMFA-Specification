@@ -22,6 +22,11 @@ CMFA-5001 — Brick Descriptor & Discovery
 
 Defines how bricks announce themselves and join the resource graph.
 
+## 🚀 Join the CMFA Community!
+
+CMFA is an open vision for the next generation of modular computing. Got ideas for new modules, Fabric improvements, or cool use cases? Jump in and help us make CMFA better for everyone!
+
+
 ## 📄 Contents
 
 - [CMFA Whitepaper v0.1.1](CMFA_Whitepaper_v0.1.1.md) — Full specification in Markdown
