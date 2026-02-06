@@ -1,7 +1,5 @@
 # CMFA Whitepaper v0.1.1
 
-# CMFA Whitepaper v0.1.1
-
 ## 1. Introduction
 
 Modern computing demands are shifting towards **AI-first, high-performance, scalable, and composable** architectures. Traditional PC and server designs face several challenges:
