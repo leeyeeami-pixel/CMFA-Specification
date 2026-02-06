@@ -38,7 +38,7 @@ Defines rules for forwarding packets, routing, and handling priorities within th
 ## [CMFA-5000 — Brick_Types](specs/CMFA-5000_Brick_Types.md)
 
 **Description:**  
-Defines standard classes for Bricks to ensure interoperability across CMFA systems.
+This specification defines the mandatory Brick classification system for all CMFA-compliant modular hardware units.
 
 **Key Points:**  
 - Power classes (e.g., low, medium, high)  
