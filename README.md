@@ -61,7 +61,7 @@ Defines how Bricks announce themselves and integrate into the CMFA resource grap
 
 ---
 
-## [CMFA-5001 — Brick Descriptor & Discovery](specs/CMFA-6000_Compliance_Testing.md)
+## [CMFA-6000 — Compliance & Interoperability Test Suite](specs/CMFA-6000_Compliance_Testing.md)
 
 **Description:**  
 Defines how Bricks announce themselves and integrate into the CMFA resource graph.
