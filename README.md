@@ -1,6 +1,7 @@
 # CMFA v0.1.1 Release Candidate
 
 Updated release package with full core specs.
+
 # CMFA — Composable Modular Fabric Architecture
 
 **CMFA** is an open specification proposal for a next-generation AI-native PC architecture:
