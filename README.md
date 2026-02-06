@@ -4,23 +4,69 @@ Welcome to the **CMFA (Composable Modular Fabric Architecture) Specification** r
 
 CMFA is a modular, AI-first hardware architecture standard designed for composable, scalable computing systems. This repository contains the official specification, development roadmap, and contribution guidelines.
 
-## CMFA Standard Draft Set
+# ⚡ CMFA Standard Draft Set
 
-CMFA-3000 — Fabric Packet Header
+This document outlines the current CMFA draft standards for modular, AI-first computing architecture.
 
-Defines the base frame and packet header.
+---
 
-CMFA-3002 — Switching & Routing Rules
+## [CMFA-3000 — Fabric Packet Header](specs/CMFA-3000_Fabric_Packet_Header.md)
 
-Defines forwarding, TTL, priority preemption, fault domains.
+**Description:**  
+Defines the base frame and packet header for communication between Bricks over the CMFA Fabric.
 
-CMFA-5000 — Brick Classes
+**Key Points:**  
+- Standardized frame structure  
+- Header fields for addressing, type, and length  
+- Ensures compatibility across different Fabric implementations  
 
-Defines power/fabric/thermal/role classes for interoperability.
+---
 
-CMFA-5001 — Brick Descriptor & Discovery
+## [CMFA-3002 — Switching & Routing Rules](specs/CMFA-3002_Switching_Routing.md)
 
-Defines how bricks announce themselves and join the resource graph.
+**Description:**  
+Defines rules for forwarding packets, routing, and handling priorities within the CMFA Fabric.
+
+**Key Points:**  
+- Packet forwarding mechanisms  
+- TTL (Time-to-Live) handling  
+- Priority preemption rules  
+- Fault domain definitions for reliability and isolation  
+
+---
+
+## [CMFA-5000 — Brick Classes](specs/CMFA-5000_Brick_Classes.md)
+
+**Description:**  
+Defines standard classes for Bricks to ensure interoperability across CMFA systems.
+
+**Key Points:**  
+- Power classes (e.g., low, medium, high)  
+- Fabric classes (e.g., bandwidth, latency)  
+- Thermal classes (cooling requirements)  
+- Role classes (Compute, Memory, Storage, Network, I/O)  
+
+---
+
+## [CMFA-5001 — Brick Descriptor & Discovery](specs/CMFA-5001_Brick_Descriptor_Discovery.md)
+
+**Description:**  
+Defines how Bricks announce themselves and integrate into the CMFA resource graph.
+
+**Key Points:**  
+- Standardized Brick descriptor format  
+- Automatic discovery protocol  
+- Dynamic registration to the Fabric resource graph  
+- Compatibility rules for heterogeneous modules  
+
+---
+
+## ⚡ CMFA Logo / Icon
+
+![CMFA Icon](specs/diagrams/cmfa_icon.png)  
+
+*Note: Replace `cmfa_icon.png` with your official CMFA logo or desired icon.*
+
 
 ## 🚀 Join the CMFA Community!
 
