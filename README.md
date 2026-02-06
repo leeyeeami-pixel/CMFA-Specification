@@ -10,7 +10,7 @@ This document outlines the current CMFA draft standards for modular, AI-first co
 
 ---
 
-## [CMFA-3000 — Fabric Packet Header](specs/CMFA-3000_Fabric_Packet_Header.md)
+## [CMFA-3000 — Fabric Packet Header](specs/CMFA-3000_Packet_Header.md)
 
 **Description:**  
 Defines the base frame and packet header for communication between Bricks over the CMFA Fabric.
