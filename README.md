@@ -6,7 +6,7 @@ CMFA is a modular, AI-first hardware architecture standard designed for composab
 
 ## 📄 Contents
 
-- [CMFA Whitepaper v0.1.1](specs/CMFA_Whitepaper_v0.1.1.md) — Full specification in Markdown
+- [CMFA Whitepaper v0.1.1](CMFA_Whitepaper_v0.1.1.md) — Full specification in Markdown
 - [Roadmap](ROADMAP.md) — Project development plan and future milestones
 - [Contribution Guidelines](CONTRIBUTING.md) — How to contribute to CMFA
 - [Diagrams](specs/diagrams/) — Architecture and module diagrams (placeholders)
