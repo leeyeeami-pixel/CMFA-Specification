@@ -41,10 +41,11 @@ Defines rules for forwarding packets, routing, and handling priorities within th
 This specification defines the mandatory Brick classification system for all CMFA-compliant modular hardware units.
 
 **Key Points:**  
-- Power classes (e.g., low, medium, high)  
-- Fabric classes (e.g., bandwidth, latency)  
-- Thermal classes (cooling requirements)  
-- Role classes (Compute, Memory, Storage, Network, I/O)  
+- Brick class taxonomy
+- Required capabilities per class
+- Brick lifecycle state machine
+- Hot-plug participation rules
+- Minimal compliance behavior
 
 ---
 
