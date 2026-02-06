@@ -4,7 +4,8 @@ Welcome to the **CMFA (Composable Modular Fabric Architecture) Specification** r
 
 CMFA is a modular, AI-first hardware architecture standard designed for composable, scalable computing systems. This repository contains the official specification, development roadmap, and contribution guidelines.
 
-CMFA Standard Draft Set
+## CMFA Standard Draft Set
+
 CMFA-3000 — Fabric Packet Header
 
 Defines the base frame and packet header.
