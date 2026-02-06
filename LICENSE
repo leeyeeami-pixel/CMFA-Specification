@@ -1,1 +1,23 @@
-CC0 1.0 Universal
+
+---
+
+## 3️⃣ ROADMAP.md (Example)
+
+```markdown
+# CMFA Roadmap
+
+This document outlines the planned milestones for the CMFA project.
+
+| Stage | Description | Timeline |
+|-------|-------------|---------|
+| 0.1 | Concept validation, basic architecture definition | 2026 Q1 |
+| 0.2 | Module prototypes, initial Fabric implementation | 2026 Q2–Q3 |
+| 0.3 | Interoperability testing, standard documentation release | 2026 Q4 |
+| 1.0 | Open standard release, community contributions and refinement | 2027 Q1 |
+
+### Future Vision
+
+- Expand module types and capabilities  
+- Optimize Fabric for AI and HPC workloads  
+- Establish open ecosystem for hardware manufacturers and developers
+
