@@ -1,41 +1,27 @@
-# CMFA — Composable Modular Fabric Architecture
+# CMFA Specification
 
-**CMFA** is an open specification proposal for a next-generation AI-native PC architecture:
+Welcome to the **CMFA (Composable Modular Fabric Architecture) Specification** repository.
 
-- Modular compute bricks instead of monolithic motherboards  
-- Capability-addressed fabric routing instead of fixed buses  
-- Reflex-grade safety and emergency event planes  
-- Hot-pluggable CPU/GPU/Memory/Storage building blocks  
-- Designed for future AI-first personal systems  
+CMFA is a modular, AI-first hardware architecture standard designed for composable, scalable computing systems. This repository contains the official specification, development roadmap, and contribution guidelines.
 
-CMFA aims to define a new interoperable hardware ecosystem, similar in spirit to:
+## 📄 Contents
 
-- PCI-SIG (PCI Express)
-- NVMe Consortium
-- USB-IF
-- Khronos Group
+- [CMFA Whitepaper v0.1.1](specs/CMFA_Whitepaper_v0.1.1.md) — Full specification in Markdown
+- [Roadmap](ROADMAP.md) — Project development plan and future milestones
+- [Contribution Guidelines](CONTRIBUTING.md) — How to contribute to CMFA
+- [Diagrams](specs/diagrams/) — Architecture and module diagrams (placeholders)
 
----
+## 📌 Features
 
-## Vision
+- Modular Compute, Memory, Storage, Network, and I/O Bricks  
+- High-speed composable Fabric interconnect  
+- Hot-plug support and dynamic module configuration  
+- Designed for AI workloads, HPC, cloud-edge, and custom PCs  
 
-Traditional PCs are built around a single motherboard with tightly bound components.
+## 🚀 Getting Started
 
-CMFA proposes a different model:
+1. Clone the repository:
 
-> A PC as a composable fabric of autonomous compute organs.
-
-A CMFA system behaves more like a distributed organism:
-
-- Compute Bricks execute workloads  
-- Memory Bricks provide pooled low-latency caching  
-- GPU Bricks accelerate AI + graphics  
-- Power Bricks enforce safety reflex shutdown  
-- Switch Bricks route by capability, not slot number  
-
----
-
-# CMFA v0.1.1 Release Candidate
-
-Updated release package with full core specs.
-
+```bash
+git clone https://github.com/leeyeeami-pixel/CMFA-Specification.git
+cd CMFA-Specification
