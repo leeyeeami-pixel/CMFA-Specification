@@ -35,7 +35,7 @@ Defines rules for forwarding packets, routing, and handling priorities within th
 
 ---
 
-## [CMFA-5000 — Brick Classes](specs/CMFA-5000_Brick_Classes.md)
+## [CMFA-5000 — Brick_Types](specs/CMFA-5000_Brick_Types.md)
 
 **Description:**  
 Defines standard classes for Bricks to ensure interoperability across CMFA systems.
