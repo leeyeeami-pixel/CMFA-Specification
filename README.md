@@ -61,8 +61,6 @@ Defines how Bricks announce themselves and integrate into the CMFA resource grap
 
 ---
 
----
-
 ## [CMFA-5001 — Brick Descriptor & Discovery](specs/CMFA-5001_Discovery_and_Descriptors.md)
 
 **Description:**  
