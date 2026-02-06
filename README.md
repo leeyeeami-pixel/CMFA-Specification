@@ -61,6 +61,21 @@ Defines how Bricks announce themselves and integrate into the CMFA resource grap
 
 ---
 
+---
+
+## [CMFA-5001 — Brick Descriptor & Discovery](specs/CMFA-5001_Discovery_and_Descriptors.md)
+
+**Description:**  
+Defines how Bricks announce themselves and integrate into the CMFA resource graph.
+
+**Key Points:**  
+- Standardized Brick descriptor format  
+- Automatic discovery protocol  
+- Dynamic registration to the Fabric resource graph  
+- Compatibility rules for heterogeneous modules  
+
+---
+
 *Note: Replace `cmfa_icon.png` with your official CMFA logo or desired icon.*
 
 
