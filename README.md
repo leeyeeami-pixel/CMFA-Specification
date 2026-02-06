@@ -4,6 +4,23 @@ Welcome to the **CMFA (Composable Modular Fabric Architecture) Specification** r
 
 CMFA is a modular, AI-first hardware architecture standard designed for composable, scalable computing systems. This repository contains the official specification, development roadmap, and contribution guidelines.
 
+CMFA Standard Draft Set
+CMFA-3000 — Fabric Packet Header
+
+Defines the base frame and packet header.
+
+CMFA-3002 — Switching & Routing Rules
+
+Defines forwarding, TTL, priority preemption, fault domains.
+
+CMFA-5000 — Brick Classes
+
+Defines power/fabric/thermal/role classes for interoperability.
+
+CMFA-5001 — Brick Descriptor & Discovery
+
+Defines how bricks announce themselves and join the resource graph.
+
 ## 📄 Contents
 
 - [CMFA Whitepaper v0.1.1](CMFA_Whitepaper_v0.1.1.md) — Full specification in Markdown
