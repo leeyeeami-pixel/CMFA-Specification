@@ -61,10 +61,6 @@ Defines how Bricks announce themselves and integrate into the CMFA resource grap
 
 ---
 
-## ⚡ CMFA Logo / Icon
-
-![CMFA Icon](specs/diagrams/cmfa_icon.png)  
-
 *Note: Replace `cmfa_icon.png` with your official CMFA logo or desired icon.*
 
 
